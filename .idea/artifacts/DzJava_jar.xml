@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="DzJava:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/DzJava_jar</output-path>
+    <root id="archive" name="DzJava.jar">
+      <element id="module-output" name="DzJava" />
+    </root>
+  </artifact>
+</component>
